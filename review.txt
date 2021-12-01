@@ -1,0 +1,23 @@
+Reviewer 1.
+
+- Acknowledge that we need better relation to literature.
+- Cyr paper, compare and contrast, cite and experiment
+- Two fixed points, need to clarify
+- Cite work for first layer orthogonality
+- Frequency bias need to be addressed to be related to DLDE
+- Why use orthogonality, motivation from classical methods to fit complex functions
+- Change legends
+- Complexity of MLP, briefly mention, synthetic experiment (not for this workshop)
+- More thorough comparison to SIREN
+- Variance of SIREN hidden layer weights
+
+Reviewer 2.
+
+- Motivation, connection from dynamical system and othogonality objectives
+- Empirical evidence shown in the paper that NTK has shorter length
+- Comparison study about other orthogonal initialization
+- Cost of computation
+
+Reviewer 3.
+
+- 
